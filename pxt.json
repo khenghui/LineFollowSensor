@@ -1,6 +1,6 @@
 {
     "name": "LineSensor",
-    "description": "",
+    "description": "A extension make user easier to connect line sensor to microbit.",
     "dependencies": {
         "core": "*",
         "radio": "*",
